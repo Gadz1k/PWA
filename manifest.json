@@ -1,0 +1,19 @@
+{
+    "name": "SkyMate",
+    "short_name": "pogoda",
+    "theme_color": "#b725d7",
+    "background_color": "#3ae92f",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/PWA/",
+    "icons" : [
+        {
+            "src": "./logoPWA.png",
+            "sizes": "512x512",
+            "type": "image/png"
+
+        }
+
+    ]
+  }
